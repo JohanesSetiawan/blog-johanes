@@ -1,4 +1,3 @@
-import post from "@/sanity/schemas/post";
 import { Post } from "./lib/interface";
 import { sanityClient } from "./lib/sanity";
 import Link from "next/link";
